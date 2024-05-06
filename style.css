@@ -900,7 +900,7 @@ footer{
     font-size: 1rem;
     font-family: "Roboto" sans-serif;
     background-color: transparent;
-    font-weight: 525px;
+    font-weight: 550;
   }
   .box1 {
     flex: 1 100%;
@@ -990,7 +990,7 @@ button.seeMore {
     padding-left: 1em;
     padding-right: 1em;
     /* background-color: #3CCF4E; */
-    font-weight: 525px;
+    font-weight: 550;
   }
   /* .Dd-summary{
     margin-left: 1em;
@@ -1013,7 +1013,7 @@ button.seeMore {
   }
   .Dd-third p{
     font-size: 1rem;
-    font-weight: 525px;
+    font-weight: 550;
     font-family: "Roboto" sans-serif;
     /* background-color: #baf4c1; */
 
@@ -1028,7 +1028,7 @@ button.seeMore {
   .Dd-fourth p {
     text-align: start;
     font-size: 1rem;
-    font-weight: 525px;
+    font-weight: 550;
     /* background-color: #baf4c1; */
     /* background-color: ; */
     font-family: "Roboto" sans-serif;
@@ -1073,8 +1073,9 @@ button.seeMore {
   }
   .sectionFour-sumarryMob p{
     display: block;
+    /* background-color: #333; */
     font-size: 1rem;
-    font-weight: 525px;
+    font-weight: 550;
     font-family: "Roboto" sans-serif;
     margin-top: 0px;
   }
@@ -1123,11 +1124,15 @@ button.seeMore {
   }
   .deliveryP{
     text-align: center;
+    margin-right: 2em;
   }
   .deliveryP p{
     text-align: center;
     text-align: start;
-    font-weight: 525px;
+    font-weight: 550;
+    font-size: 1em;
+    /* background-color: #333; */
+    padding-right: 2em;
   }
   .GWM{
     /* margin-left: auto;
@@ -1135,10 +1140,21 @@ button.seeMore {
     padding-right: 1em; */
     display: flex;
     flex-direction: column;
+    margin-right: 2em;
     /* background-color: #333; */
   }
+  .GWM1{
+    display: flex;
+    flex-direction: column;
+  }
+  .GWM2{
+    display: flex;
+    flex-direction: column;
+  }
   .GWM3{
-    padding-right: 1.5em;
+    display: flex;
+    flex-direction: column;
+    padding-right: 2.5em;
   }
   .deliveryButton button{
     padding: 7px 10px;
