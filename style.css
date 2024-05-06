@@ -837,7 +837,8 @@ footer{
   }
   .h1 h1 {
     font-size: 1.5rem;
-    text-align: center;
+    margin-left: 30px;
+    text-align: start;
     font-family: "Roboto" sans-serif;
     /* background-color: cadetblue; */
     margin-top: 2.5em;
@@ -945,6 +946,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     padding-left: 1em;
     padding-right: 1em;
+    margin-bottom: 15px;
   }
   
 button.seeMore {
@@ -958,7 +960,7 @@ button.seeMore {
   font-weight: 500;
   background-color: #3CCF4E;
   align-items: center;
-  margin-bottom: 2rem;
+  margin-bottom: 0;
 }
 .seemore:hover a{
   font-weight: 600;
@@ -985,10 +987,10 @@ button.seeMore {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 1px;
+    margin-top: 0px;
     width: 400px;
     gap: 2px;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
   .Dd-h1 h2{
     font-size: 1.5rem;
@@ -996,6 +998,7 @@ button.seeMore {
     padding-left: 1.3em;
     padding-right: 1.3em;
     margin-top: 0px;
+    /* background-color: red; */
   }
   .Dd-summary p{
     font-size: 1em;
@@ -1144,7 +1147,7 @@ button.seeMore {
     /* padding-left: em; */
     /* padding-right: em; */
     margin-top: 0px;
-    background-color: #3CCF4E;
+    background-color: transparent;
   }
   .deliveryH2{
     margin-top: 2.5em;
@@ -1157,7 +1160,7 @@ button.seeMore {
   }
   .deliveryP{
     text-align: center;
-    margin-right: 2em;
+    margin-right: 0em;
   }
   .deliveryP p{
     text-align: center;
@@ -1166,7 +1169,7 @@ button.seeMore {
     font-size: 1em; */
     font-size: 1em;
     font-weight: 400;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto' sans-serif;
     /* background-color: #333; */
     padding-right: 2em;
   }
@@ -1249,12 +1252,12 @@ button.seeMore {
     background-color: transparent;
   }
   .year{
-    margin-top: 5px;
+    margin-top: 0px;
   }
   .p-h2{
     background-color: transparent;
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 0em;
+    padding-right: 0em;
     margin-bottom: 10px;
   }
   .p-h2 h2{
