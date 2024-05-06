@@ -1156,7 +1156,7 @@ button.seeMore {
     display: flex;
     flex-direction: column;
     /* margin-right: em; */
-    background-color: #333;
+    /* background-color: #333; */
   }
   .GWM1{
     display: flex;
