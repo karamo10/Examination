@@ -897,10 +897,11 @@ footer{
     font-family: "Roboto" sans-serif;
   }
   .summary p {
-    font-size: 1rem;
+    font-size: 1em;
+    font-weight: 300;
     font-family: "Roboto" sans-serif;
     background-color: transparent;
-    font-weight: 550;
+    /* font-weight: 550; */
   }
   .box1 {
     flex: 1 100%;
@@ -926,10 +927,13 @@ footer{
   }
   .course-summary3 p{
     display: block;
-    font-family: "Roboto" sans-serif;
+    /* font-family: "Roboto" sans-serif; */
     text-align: center;
-    font-size: 1rem;
-    font-weight: 525px;
+    /* font-size: 1rem;
+    font-weight: 525px; */
+    font-size: 1em;
+    font-weight: 300;
+    font-family: "Roboto" sans-serif;
     padding-left: 1em;
     padding-right: 1em;
   }
@@ -986,11 +990,13 @@ button.seeMore {
   }
   .Dd-summary p{
     font-family: "Roboto" sans-serif;
-    font-size: 1rem;
+    /* font-size: 1rem; */
+    font-size: 1em;
+    font-weight: 300;
     padding-left: 1em;
     padding-right: 1em;
     /* background-color: #3CCF4E; */
-    font-weight: 550;
+    /* font-weight: 550; */
   }
   /* .Dd-summary{
     margin-left: 1em;
@@ -1012,8 +1018,10 @@ button.seeMore {
     height: 100%;
   }
   .Dd-third p{
-    font-size: 1rem;
-    font-weight: 550;
+    /* font-size: 1rem;
+    font-weight: 550; */
+    font-size: 1em;
+    font-weight: 300;
     font-family: "Roboto" sans-serif;
     /* background-color: #baf4c1; */
 
@@ -1027,8 +1035,10 @@ button.seeMore {
   }
   .Dd-fourth p {
     text-align: start;
-    font-size: 1rem;
-    font-weight: 550;
+    /* font-size: 1rem;
+    font-weight: 550; */
+    font-size: 1em;
+    font-weight: 300;
     /* background-color: #baf4c1; */
     /* background-color: ; */
     font-family: "Roboto" sans-serif;
@@ -1074,8 +1084,10 @@ button.seeMore {
   .sectionFour-sumarryMob p{
     display: block;
     /* background-color: #333; */
-    font-size: 1rem;
-    font-weight: 550;
+    /* font-size: 1rem;
+    font-weight: 550; */
+    font-size: 1em;
+    font-weight: 300;
     font-family: "Roboto" sans-serif;
     margin-top: 0px;
   }
@@ -1129,8 +1141,10 @@ button.seeMore {
   .deliveryP p{
     text-align: center;
     text-align: start;
-    font-weight: 550;
+    /* font-weight: 550;
+    font-size: 1em; */
     font-size: 1em;
+    font-weight: 300;
     /* background-color: #333; */
     padding-right: 2em;
   }
@@ -1140,8 +1154,8 @@ button.seeMore {
     padding-right: 1em; */
     display: flex;
     flex-direction: column;
-    margin-right: 2em;
-    /* background-color: #333; */
+    /* margin-right: em; */
+    background-color: #333;
   }
   .GWM1{
     display: flex;
