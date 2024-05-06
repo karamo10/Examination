@@ -912,10 +912,11 @@ footer{
   }
   .box1 {
     flex: 1 100%;
+    /* gap: 3em; */
   }
   .courses-box {
     width: 100%;
-    gap: 10px;
+    gap: 2em;
     margin-top: 10px;
     /* margin-left: 20px;
     margin-right: 20px; */
